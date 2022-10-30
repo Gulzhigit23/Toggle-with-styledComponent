@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Toggle-with-styledComponent/static/css/main.3893fbd1.css",
+    "main.js": "/Toggle-with-styledComponent/static/js/main.8a196f06.js",
+    "index.html": "/Toggle-with-styledComponent/index.html",
+    "main.3893fbd1.css.map": "/Toggle-with-styledComponent/static/css/main.3893fbd1.css.map",
+    "main.8a196f06.js.map": "/Toggle-with-styledComponent/static/js/main.8a196f06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3893fbd1.css",
+    "static/js/main.8a196f06.js"
+  ]
+}
